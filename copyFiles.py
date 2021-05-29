@@ -1,6 +1,6 @@
 """
-Using Google Takeout to download photos from Google Photos we get album names as directories. Sometimes it's needed
-explode all files in those directories into one, for example so that they can be used for import to another systems.
+Using Google Takeout to download photos from Google Photos we get album names as directories. Sometimes it's needed to
+explode all files in those directories into one folder, for example so that they can be used for import in another systems.
 This script helps with this task.
 """
 
